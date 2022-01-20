@@ -1,1 +1,6 @@
-# Voiceprint-Recognition-Unit-Design
+# 声纹识别单元设计
+此项目参与开源毕设活动。
+## 部署平台
+**STM32和Sipeed Maix Dock K210开发板**
+## 项目进度
+待更新
